@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
- 	githost 연습시작~!
+ 	githost 연습시작~! 
 </body>
 </html>
