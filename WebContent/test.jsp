@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
- 	githost 연습시작~! 
+ 	github 연습시작~!</br> 
+ 	이것은 Local~!
+ 	헤헷~!
 </body>
 </html>
